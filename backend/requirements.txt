@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+diffusers
+transformers
+accelerate
+torch
+torchvision
+torchaudio
+pillow
+opencv-python
+numpy
+insightface
+onnxruntime-gpu
+pyngrok
+gdown

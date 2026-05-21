@@ -1,0 +1,26 @@
+# Node.js
+**/node_modules/
+**/.next/
+**/out/
+**/.env*.local
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/venv/
+
+# IDEs & System
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Heavy files / installer / scratch
+python-installer.exe
+test_image_b64.txt
+test_img.b64
+scratch/
+modal_logs*.txt
+deploy_log.txt
+deploy_result.txt

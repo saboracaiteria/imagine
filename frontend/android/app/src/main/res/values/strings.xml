@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GROK007</string>
+    <string name="title_activity_main">GROK007</string>
+    <string name="package_name">com.grok007.app</string>
+    <string name="custom_url_scheme">com.grok007.app</string>
+</resources>
